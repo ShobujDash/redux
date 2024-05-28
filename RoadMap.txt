@@ -1,0 +1,23 @@
+1. Concepts terms
+2. redux with react
+3. Redux toolkit(RTK) with react
+4. RTK Queary with react
+5. Project with RTK Async Thunk
+6. Redux Saga
+
+
+
+// why redux?
+
+
+
+// when to use redux
+1. Big Application
+2. High frequency of state changes
+
+
+// Redux Pattern
+1. Action --> 1.type 2. payload
+2. dispatch 
+3. reducer
+4. middleware
