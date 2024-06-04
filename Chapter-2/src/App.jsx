@@ -16,7 +16,7 @@ function App() {
       <h3>Total Bonus : {bonus}</h3>
 
       <Account/>
-      <Bonus/>
+      <Bonus />
     </div>
   );
 }
